@@ -12,7 +12,10 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://puzzle.nikoli.com/*/post/*"],
+      "matches": [
+        "https://puzzle.nikoli.com/community/post/*",
+        "https://puzzle.nikoli.com/official/post/*"
+      ],
       "js": ["PuzComExtension.user.js"],
       "run_at": "document_idle"
     }
