@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "PuzCom Solve Time Stats"
+  },
+  "extDescription": {
+    "message": "Displays solve time statistics panel with histogram. Also adds sort buttons to solve records."
+  }
+}

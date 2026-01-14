@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "PuzCom Solve Time Stats",
+  "name": "__MSG_extName__",
   "version": "1.0",
-  "description": "解答時間統計パネルを表示し、解答時間のヒストグラムを描画します。また、解答記録にソートボタンを追加します。",
+  "description": "__MSG_extDescription__",
+  "default_locale": "ja",
   "author": "seiji-irie",
   "homepage_url": "https://github.com/seiji-irie/PuzComExtension",
   "icons": {
